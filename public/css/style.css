@@ -1,0 +1,15 @@
+/*
+    Start Main Style
+*/
+.sidebar{
+    width: 200px;
+    float: right;
+}
+.footer{
+    background-color: #DDD;
+    padding: 14px 0 6px 0;
+}
+
+/*
+    End Main Style
+*/
